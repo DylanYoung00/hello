@@ -12,5 +12,7 @@ Source Code for Hack 1
 int main(void) {
     printf("Dylan Young");
     printf("Computer Science\n");
+	printf("Sam Pane");
+	printf("Computer Science\n")
     return 0;
 }

@@ -10,7 +10,9 @@ Source Code for Hack 1
 #include <stdio.h>
 
 int main(void) {
-    printf("Dylan Young");
+    printf("Dylan Young\n");
     printf("Computer Science\n");
+	printf("Sam Pane\n");
+	printf("Computer Science\n");
     return 0;
 }
